@@ -40,8 +40,7 @@ To use LifePill:
 
 5. **Prescription Management:** Users can upload and manage their prescriptions digitally for easy access and organization.
 
-## States
-
+## Stats
 
 <!-- Copy-paste in your Readme.md file -->
 
@@ -56,15 +55,14 @@ To use LifePill:
 
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution?zone=6&owner_id=149755096&period=past_12_months" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?period=past_90_days&activity=issues&owner_id=149755096" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution/thumbnail.png?zone=6&owner_id=149755096&period=past_12_months&image_size=3x6&color_scheme=dark" width="561" height="auto">
-    <img alt="When Do Participants Prefer to Submit Code?" src="https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution/thumbnail.png?zone=6&owner_id=149755096&period=past_12_months&image_size=3x6&color_scheme=light" width="561" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?period=past_90_days&activity=issues&owner_id=149755096&image_size=3x9&color_scheme=dark" width="849" height="auto">
+    <img alt="Count of Issues Over Time" src="https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?period=past_90_days&activity=issues&owner_id=149755096&image_size=3x9&color_scheme=light" width="849" height="auto">
   </picture>
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-org-overview-stats?activity=pull-requests&owner_id=149755096&period=past_12_months" target="_blank" style="display: block" align="center">
