@@ -41,34 +41,14 @@ To use LifePill:
 5. **Prescription Management:** Users can upload and manage their prescriptions digitally for easy access and organization.
 
 ## States
-<!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-org-participants-growth?owner_id=11855343&activity=active&period=past_28_days" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?owner_id=11855343&activity=active&period=past_28_days&image_size=4x7&color_scheme=dark" width="657" height="auto">
-    <img alt="Active trends of pingcap" src="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?owner_id=11855343&activity=active&period=past_28_days&image_size=4x7&color_scheme=light" width="657" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-org-overview-stats?owner_id=11855343&activity=pull-requests&period=past_28_days" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?period=past_90_days&activity=pull-requests&owner_id=149755096" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?owner_id=11855343&activity=pull-requests&period=past_28_days&image_size=2x2&color_scheme=dark" width="177" height="auto">
-    <img alt="[Overview] pull-requests of pingcap" src="https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?owner_id=11855343&activity=pull-requests&period=past_28_days&image_size=2x2&color_scheme=light" width="177" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?owner_id=11855343&period=past_28_days&activity=pull-requests" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?owner_id=11855343&period=past_28_days&activity=pull-requests&image_size=3x9&color_scheme=dark" width="849" height="auto">
-    <img alt="Count of Pull requests Over Time" src="https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?owner_id=11855343&period=past_28_days&activity=pull-requests&image_size=3x9&color_scheme=light" width="849" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?period=past_90_days&activity=pull-requests&owner_id=149755096&image_size=3x9&color_scheme=dark" width="849" height="auto">
+    <img alt="Count of Pull requests Over Time" src="https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?period=past_90_days&activity=pull-requests&owner_id=149755096&image_size=3x9&color_scheme=light" width="849" height="auto">
   </picture>
 </a>
 
