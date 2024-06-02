@@ -1,4 +1,4 @@
-# LifePill Software Company
+# LifePill Software Company  [![committers.top badge](https://org-badge.committers.top/sri_lanka/life-pill.svg)](https://org-badge.committers.top/sri_lanka/lifepill)
 
 <p align="center">
   <img width="170" alt="Logo" src="https://github.com/Life-Pill/.github/assets/123730262/76cfe892-ac5e-43de-8906-3a4636eeb237">
