@@ -1,7 +1,5 @@
 # LifePill Software Company  [![committers.top badge](https://org-badge.committers.top/sri_lanka/life-pill.svg)](https://org-badge.committers.top/sri_lanka/lifepill)
 
-To add the insights from OSSInsight about the Life-Pill repository to your GitHub README, you can include a section that summarizes the key points and provides a direct link to the full analysis. Here's an example of how to format it:
-
 ---
 
 ## Project Insights
