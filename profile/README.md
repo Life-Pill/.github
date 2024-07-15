@@ -2,6 +2,10 @@
 
 ---
 
+[Click here to chat with LifePillChatBot](https://app.fastbots.ai/embed/clyngx92301fvr9b93rgs5lml)
+
+---
+
 ## Project Insights
 
 For a detailed analysis, please visit the [OSSInsight Life-Pill Analysis](https://next.ossinsight.io/analyze/Life-Pill?period=past_12_months#overview).
