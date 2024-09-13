@@ -1,6 +1,5 @@
 # LifePill Software Company  [![committers.top badge](https://org-badge.committers.top/sri_lanka/life-pill.svg)](https://org-badge.committers.top/sri_lanka/lifepill)
 
----
 
 [Click here to chat with LifePillChatBot](https://app.fastbots.ai/embed/clyngx92301fvr9b93rgs5lml)
 
